@@ -1,0 +1,11 @@
+h2 {
+    color: darkcyan;
+}
+h1 {
+    color: royalblue;
+}
+#serverStatus{
+    color: red;
+    font-size: 1em;
+    text-decoration: underline;
+}
